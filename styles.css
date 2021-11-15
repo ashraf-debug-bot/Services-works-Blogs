@@ -1,0 +1,95 @@
+#services{
+  padding :4% 7% 15%;
+  text-align: center;
+  font-size:1.5rem;
+
+}
+.services-heading{
+  color: #233e62;
+  margin:10px;
+  line-height: 2;
+}
+.service-para{
+  margin:10px;
+}
+#features{
+padding: 1% 15%;
+position: relative;
+background-color: #fff;
+text-align: center;
+}
+.icon{
+  font-size: 4rem;
+  color: #3DB2FF;
+margin-bottom: 1.5rem;
+}
+.features{
+    padding: 5%;
+}
+.icon:hover{
+  color:black;
+}
+.quest{
+  text-align: center;
+  background-color:#3DB2FF;
+  padding:3% 7%
+
+}
+.button-ki{
+  margin-left: 10%;
+  font-size: 1.5rem;
+  border-radius: 100px;
+}
+.button-ki:hover{
+  color:white;
+  background-color: black;
+}
+#ourwork{
+  padding :4% 7% 15%;
+  text-align: center;
+  font-size:1.5rem;
+}
+.work-heading{
+  color: #233e62;
+  margin:10px;
+  line-height: 4;
+}
+.work-heading{
+  margin:10px;
+  line-height: 2;
+}
+.work-img:hover{
+  background-color:#3DB2FF;
+}
+#blog{
+  padding :4% 7% 15%;
+  text-align: center;
+  font-size:1.5rem;
+}
+.blog-heading{
+  color: #233e62;
+  margin:10px;
+  line-height: 2;
+}
+.work-para{
+  line-height: 2;
+}
+#blog-img{
+  text-align: center;
+    padding :4% 7% 15%;
+    align-items: center;
+}
+h2{
+  font-family: 'Nunito', sans-serif;
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    color:grey;
+    font-size: 1.5rem;
+}
+.button-down:hover{
+  color:white;
+  background-color: black;
+}
